@@ -6,7 +6,7 @@ var selectSchoolSouth;
 var selectSchoolOther;
 var confirmButton;
 var schoolNum = 0;
-const guideURL = "https://naoto64.web.fc2.com/test/";
+const guideURL = "/";
 const guideList = ["ar.html", "", "", "", "", ""];
 
 window.onload = function(){
