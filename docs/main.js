@@ -6,7 +6,7 @@ var selectSchoolSouth;
 var selectSchoolOther;
 var confirmButton;
 var schoolNum = 0;
-const guideURL = "/";
+const guideURL = "/test-repo/";
 const guideList = ["ar.html", "", "", "", "", ""];
 
 window.onload = function(){
